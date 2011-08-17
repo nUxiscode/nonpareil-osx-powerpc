@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {buttonPressed = id; }; 
+            CLASS = ClassicController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {display = ClassicDisplayView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LEDDisplayView; LANGUAGE = ObjC; SUPERCLASS = NSView; }
+    ); 
+    IBVersion = 1; 
+}
