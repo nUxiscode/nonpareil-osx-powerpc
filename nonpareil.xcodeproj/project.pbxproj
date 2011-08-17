@@ -4094,7 +4094,8 @@
 		2C3B4B9008D1FF2A00D224E7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = i386;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1 = "ppc i386";
 				GCC_PFE_FILE_C_DIALECTS = "objective-c c++ objective-c++";
 			};
 			name = Debug;
@@ -4111,7 +4112,8 @@
 		2C3B4B9208D1FF2A00D224E7 /* Default */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = i386;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1 = "ppc i386";
 				GCC_PFE_FILE_C_DIALECTS = "objective-c c++ objective-c++";
 			};
 			name = Default;
