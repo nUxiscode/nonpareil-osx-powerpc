@@ -54,7 +54,7 @@
 @implementation TransparentWindow
 
 - (id)initWithContentRect:(NSRect)contentRect
-				styleMask:(NSUInteger)aStyle
+				styleMask:(unsigned int)aStyle
 				  backing:(NSBackingStoreType)bufferingType
 					defer:(BOOL)flag
 {
