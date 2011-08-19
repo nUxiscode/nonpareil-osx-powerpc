@@ -1,10 +1,10 @@
-![nonpareil for Mac OS X- HP calculator emulator](/nUxiscode/nonpareil-osx-powerpc/raw/master/readme-header.png "nonpareil for Mac OS X- HP calculator emulator")  
+![nonpareil for Mac OS X- HP calculator emulator](/nUxiscode/nonpareil-osx-powerpc/raw/master/readme-header.png "nonpareil for Mac OS X- HP calculator emulator") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Mac 'Face' and Universal Logos](http://www.bartosiak.org/nonpareil/index_files/MacOSX_Universal_60px.gif "Mac 'Face' and Universal Logos")  
 &nbsp;  
 
 ![Screenshot](http://www.bartosiak.org/nonpareil/index_files/nonpareil-screenshot-small.png "Screenshot")  
 
 > #### Download _nonpareil for Mac OS X_ v. 0.17&nbsp;&nbsp;&nbsp; _PowerPC/Tiger/Leopard Patch 3_  
-> ##### Read-to-run Universal binaries supporting *PowerPC* (and Intel) Macs that
+> ##### Read-to-run Universal binaries supporting *PowerPC* (and Intel) Macs that  
 > ##### run *Mac OS X 10.4 Tiger, Mac OS X 10.5 Leopard,* or (on Intel) later versions  
 > Classic:&nbsp;&nbsp; 
 [ HP-35 ](/downloads/nUxiscode/nonpareil-osx-powerpc/nonpareil-35.app.zip)&nbsp;&nbsp; 
@@ -42,8 +42,6 @@ If you [have bug reports](/nUxiscode/nonpareil-osx-powerpc/issues) or [questions
 The vast majority of the work to maintain the Mac OS X port of _nonpareil_ remains in the hands of [its author](http://www.bartosiak.org/); it has taken only minimal changes to restore (for now) the ability to use _nonpareil for OS X_ to PowerPC owners and other users of Mac OS X 10.4 Tiger and Mac OS X 10.5 Leopard.  **If you like _nonpareil for Mac OS X_, please [donate to its author](http://www.bartosiak.org/nonpareil/) to sponsor further development via PayPal on the [author's website](http://www.bartosiak.org/nonpareil/).**
 
 All versions of _nonpareil_ are made available under the terms of the Free Software Foundation's [General Public License, Version 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html). 
-
-![Mac 'Face' and Universal Logos](http://www.bartosiak.org/nonpareil/index_files/MacOSX_Universal_60px.gif "Mac 'Face' and Universal Logos")
 
 -----------------------
 
